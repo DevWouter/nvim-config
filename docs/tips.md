@@ -4,9 +4,10 @@
 
 1. Install nvim
 2. Install nodejs
-3. Install luarocks
-4. `git clone https://github.com/DevWouter/nvim-config ~/.config/nvim`
-5. start nvim and perform `:LazyHealth`
+3. `npm install -g neovim`
+4. `brew install luarocks ripgrep ast-grep lazygit fd fzf imagemagick gs`
+5. `git clone https://github.com/DevWouter/nvim-config ~/.config/nvim`
+6. start nvim and perform `:LazyHealth`
 
 ## A few hints
 
