@@ -15,18 +15,21 @@
   thinking of windows.
 - You need to install `npm i -D @angular/language-service` if you want to have
   the LSP working.
-- In the explorer you can use `a` to a file/directory
+- In the explorer you can use `a` to add a file/directory
 
 ### Common hotkeys
 
-| Key | Result |
-| --- | --- |
-| `<leader>gg` | LazyGit (use `q` to exit it) |
-| `<leader>ca` | Code action (quick fixes, etc) |
-| `<leader>e` | Toggle Explorer view |
-| `<leader><space>` | Quick find panel |
-| `<leader>bd` | Buffer delete (close file) |
-| `<leader>wd` | Window delete (close view of file) |
-| `<leader><tab>d` | Tab delete (close tab and all views) |
-| `[b` or `]b` | Navigate to next buffer |
-| `<ctrl>h` or `<ctrl>l` | Focus to the tab left or right |
+| Key                    | Result                                       |
+| ---------------------- | -------------------------------------------- |
+| `<leader>gg`           | LazyGit (use `q` to exit it)                 |
+| `<leader>ca`           | Code action (quick fixes, etc)               |
+| `<leader>e`            | Toggle Explorer view                         |
+| `<leader><space>`      | Quick find panel                             |
+| `<leader>sk`           | Search key maps (shows all key combinations) |
+| `<leader>bd`           | Buffer delete (close file)                   |
+| `<leader>wd`           | Window delete (close view of file)           |
+| `<leader><tab>d`       | Tab delete (close tab and all views)         |
+| `[b` or `]b`           | Navigate to next buffer                      |
+| `<ctrl>h` or `<ctrl>l` | Focus to the tab left or right               |
+| `gd`                   | Go to definition                             |
+| `gr`                   | Go to references/usage                       |
