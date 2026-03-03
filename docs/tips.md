@@ -6,8 +6,9 @@
 2. Install nodejs
 3. `npm install -g neovim`
 4. `brew install luarocks ripgrep ast-grep lazygit fd fzf imagemagick gs`
-5. `git clone https://github.com/DevWouter/nvim-config ~/.config/nvim`
-6. start nvim and perform `:LazyHealth`
+5. `npm install -g @mermaid-js/mermaid-cli`
+6. `git clone https://github.com/DevWouter/nvim-config ~/.config/nvim`
+7. start nvim and perform `:LazyHealth`
 
 ## A few hints
 

@@ -7,11 +7,10 @@ return {
       -- your image configuration comes here
       -- or leave it empty to use the default settings
       -- refer to the configuration section below
-      enabled = true,
       doc = {
-        enabled = true,
+        enabled = false,
         inline = false,
-        float = true,
+        float = false,
         max_width = 80,
         max_height = 40,
       },
