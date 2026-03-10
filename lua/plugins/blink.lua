@@ -13,6 +13,7 @@ return {
     opts = {
       completion = {
         ghost_text = {
+          show_without_menu = false,
           enabled = function()
             for _, value in pairs(disabledFor) do
               if vim.bo.filetype == value then
